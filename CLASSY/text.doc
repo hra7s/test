@@ -1,0 +1,56 @@
+css file 
+bootstarp 
+sass 
+scss 
+material ui 
+ant design 
+chakra ui 
+TAILWIND CSS 
+
+
+srp (single responsibility principle)
+resuable 
+maintainable
+testable 
+
+// custom hooks 
+
+
+chuncking
+code splitting 
+dynamic bundling 
+lazy loading 
+
+
+// higher order component takes a component as a input and then enhances it and add some extra features and returns it back , its like a enhancer 
+
+
+
+const vegLabel=(Component)=>{
+
+    return ()=>{
+        return (
+
+        )
+    }
+}
+
+
+
+
+higher order funtion which takes a another function as an argument is called higher order function 
+
+call back function means when we pass a function as an argument to nother function is called call back 
+
+
+
+let a=[]
+a.map(()=>{}
+map  reduce and filter are higher 
+
+
+higher order component 
+
+it takes component as an argument and return another component with enahanced features
+
+
